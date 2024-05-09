@@ -1,4 +1,6 @@
-﻿namespace APBD6_zadanie.Repositories;
+﻿using System.Data.SqlClient;
+
+namespace APBD6_zadanie.Repositories;
 
 
 public interface IWarehouseRepository
