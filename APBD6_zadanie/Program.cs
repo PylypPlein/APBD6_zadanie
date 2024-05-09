@@ -1,5 +1,6 @@
-using WebApplication2.Repositories;
-using WebApplication2.Services;
+using APBD6_zadanie.Repositories;
+using APBD6_zadanie.Services;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
